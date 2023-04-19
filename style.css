@@ -69,7 +69,7 @@ section p {
     font-size: 14px;
     line-height: 28px;
     color: #7D7987;
-    margin: 40px 0; /* Espaçamento entre o parágrafo, 40px superior e inferior. */
+    margin: 40px 0; /* Spacing between the paragraph, 40px top and bottom. */
 }
 
 button {
